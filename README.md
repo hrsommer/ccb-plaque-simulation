@@ -1,4 +1,4 @@
-# ccbEyePlaque
+# ccb-plaque-simulation
 
 Geant4 application for calculating a depth dose profile of the CCB-type ruthenium eye plaque
 
