@@ -20,4 +20,4 @@ Geant4 application for calculating a depth dose profile of the CCB-type rutheniu
 
 The geometrical description of the eye plaque is based on the ICRU 72 Report.
 
-The physics list of the simulation is based on the GEANT4 example "medical/electronScattering2".  This product includes software developed by Members of the Geant4 Collaboration ( http://cern.ch/geant4 ).
+The physics list of the simulation is based on the GEANT4 example "medical/electronScattering2".  This software includes software developed by Members of the Geant4 Collaboration ( http://cern.ch/geant4 ).
